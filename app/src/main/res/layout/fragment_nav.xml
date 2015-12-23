@@ -1,0 +1,22 @@
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="youssefkhar.prototype1.navFragment"
+    android:background="#FFE3E3E3">
+
+
+    <ListView
+        android:id="@+id/menuList"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_centerVertical="true"
+        android:choiceMode="singleChoice"
+        android:background="#FFE3E3E3"
+        android:textAlignment="center"
+        >
+
+    </ListView>
+
+</RelativeLayout>

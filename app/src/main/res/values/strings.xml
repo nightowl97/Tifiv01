@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">prototype1</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="letter">A</string>
+    <string name="wrongbutton">Wrong</string>
+    <string name="rightbutton">Right</string>
+    <string name="firststring">This letter is pronounced:</string>
+    <string name="title_activity_launch">LaunchActivity</string>
+    <string name="launchtext">Hello, Tap anywhere to start</string>
+    <string name="drawer_open">Open</string>
+    <string name="drawer_close">Close</string>
+    <string name="help_str">We are going to help you memorize the Tifinagh letters and their pronunciation in a relatively short time span. This can be done by focusing your training on the letters you find particularly difficult to memorize. While making sure you retain the rest of the letters in your long term memory. Good luck.</string>
+    <string name="abt_str">These are my bragging grounds, basically</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_settings">SettingsActivity</string>
+
+
+</resources>
